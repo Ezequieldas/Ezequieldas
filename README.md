@@ -1,6 +1,6 @@
 
 ---
-<h2 style="text-align:center" >EZEQUIEL DASTOLFO - FRONTEND DEVELOPER</h2>
+<h2 style="text-align:center" >EZEQUIEL DASTOLFO - FULLSTACK DEVELOPER</h2>
 
 ---
 
@@ -47,7 +47,7 @@ Año 2022. Actualmente mi perfil profesional es fullstack developer; y co-founde
 
 <img src="assets\mysql-icon.png"> Bases de datos: MySQL
 
-<img src="assets\git-icon.png"> Control de versiones: Git & Github
+<img src="[assets\git-icon.png](https://github.com/Ezequieldas/Ezequieldas.github.io/blob/59c74de16dd85bacb05671c3097b15c8a0b91c1f/assets/git-icon.png)"> Control de versiones: Git & Github
 
 <img src="assets\azure-icon.png"> Cloud: Azure (Certificación AZ-900)
 
