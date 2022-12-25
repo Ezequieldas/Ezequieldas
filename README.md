@@ -1,10 +1,18 @@
+
 ---
-# EZEQUIEL DASTOLFO - FULLSTACK DEVELOPER
+<h2 style="text-align:center" >EZEQUIEL DASTOLFO - FRONTEND DEVELOPER</h2>
+
 ---
 
-![](https://wallpapers.com/images/hd/4k-programming-keep-calm-poster-dkij2z2o9onznatz.jpg)
+<div style="text-align: center; font-size: 12px"><a href="https://github.com/Ezequieldas/Ezequieldas.github.io/blob/main/README-EN.md" >CLICK FOR THE ENGLISH VERSION</a></div>
 
-Hola! Soy Ezequiel, y te contaré un poco sobre mí.
+<br>
+
+<div style="width: 360px; margin: 0 auto">
+<img src="https://wallpapers.com/images/hd/4k-programming-keep-calm-poster-dkij2z2o9onznatz.jpg">
+</div>
+
+Hola! Soy <b>Ezequiel</b>, y te contaré un poco sobre mí:
 
 Trabajé por 8 años dirigiendo equipos en corporaciones. Hasta que en el 2017 tomé una decisión profesional importante para mi carrera: crear una empresa. En el proceso me ha ocurrido de todo! he cosechado éxitos y aprendizajes, he pasado por momentos buenos y otros difíciles, he ganado mucha experiencia.
 
@@ -20,25 +28,43 @@ Entonces comencé a estudiar, primero de forma autodidacta; luego decidí aceler
 
 Mi objetivo actual es dominar un amplio campo de tecnologías que me permitan formar parte de un equipo de innovación, aportando todos mis skills cosechados a lo largo de estos años
 
-Año 2022. Actualmente mi perfil es "Fullstack developer" en proceso de construcción; y co-founder de dos locales comerciales, los cuales se encuentran bajo mi supervisión.
+Año 2022. Actualmente mi perfil profesional es fullstack developer; y co-founder de dos locales comerciales, los cuales se encuentran bajo mi supervisión.
 
-¿Qué habilidades domino?
-
--Manejo de equipos
--Liderazgo
--Gestión comercial
+---
 
 ¿Qué tecnologías domino? 
+---
 
--Desarrollo frontend: HTML, CSS, Javascript;
--Librerías JS, React; 
--Backend: Nodejs
--Bases de datos, SQL;
--Control de versiones: Git y Github. 
--Cloud: Azure (Certificación AZ-900)
+
+
+<img src="assets\js-icon.png"> Javascript
+
+<img src="assets\python-icon.png"> Python
+
+<img src="assets\react-icon.png"> Librerías JS: React
+
+<img src="assets\node-icon.png"> Backend: Nodejs
+
+<img src="assets\mysql-icon.png"> Bases de datos: MySQL
+
+<img src="assets\git-icon.png"> Control de versiones: Git & Github
+
+<img src="assets\azure-icon.png"> Cloud: Azure (Certificación AZ-900)
+
+¿Qué habilidades domino?
+---
+
+- Manejo de equipos
+- Liderazgo
+- Gestión comercial
 
 ¿Qué idiomas domino?
--English B2 (En camino a rendir TOEFL)
+---
+- English B2 (En camino a rendir TOEFL)
 
+---
 
-[VISITA MI PORTFOLIO](https://ezequieldas.github.io/)
+<div style="text-align: center; font-size: 20px"><a href="https://ezequieldas.github.io/" >VISITA MI PORTAFOLIO</a></div>
+
+---
+
