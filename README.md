@@ -37,19 +37,19 @@ Año 2022. Actualmente mi perfil profesional es fullstack developer; y co-founde
 
 
 
-<img src="assets\js-icon.png"> Javascript
+Javascript
 
-<img src="assets\python-icon.png"> Python
+Python
 
-<img src="assets\react-icon.png"> Librerías JS: React
+Librerías JS: React
 
-<img src="assets\node-icon.png"> Backend: Nodejs
+Backend: Nodejs
 
-<img src="assets\mysql-icon.png"> Bases de datos: MySQL
+Bases de datos: MySQL
 
-<img src="[assets\git-icon.png](https://github.com/Ezequieldas/Ezequieldas.github.io/blob/59c74de16dd85bacb05671c3097b15c8a0b91c1f/assets/git-icon.png)"> Control de versiones: Git & Github
+Git & Github
 
-<img src="assets\azure-icon.png"> Cloud: Azure (Certificación AZ-900)
+Cloud: Azure (Certificación AZ-900)
 
 ¿Qué habilidades domino?
 ---
